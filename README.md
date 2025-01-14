@@ -1,0 +1,1 @@
+# Desafio-de-projeto-AWS-Rekognition---Detectando-Celebridades-em-Imagens
